@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Users\odiaseo\workspace\.metadata\.plugins\org.eclipse.m2e.core\launches\m2conf7714844192716323319.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\odiaseo\workspace\.metadata\.plugins\org.eclipse.m2e.core\launches\m2conf2092635996191581552.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Zend\ZendServer\bin;C:\Program Files (x86)\Zend\ZendServer\share\ZendFramework\bin;C:\Program Files (x86)\Zend\MySQL51\bin;C:\cygwin\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\OpenVPN\bin;C:\cygwin\bin;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,7 +61,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.003" classname="com.peleodiase.bbc.ProgramServiceTest" name="test_listPrograms_A$"/>
+  <testcase time="0.004" classname="com.peleodiase.bbc.ProgramServiceTest" name="test_listPrograms_A$"/>
   <testcase time="0" classname="com.peleodiase.bbc.ProgramServiceTest" name="test_instantiation"/>
   <testcase time="0" classname="com.peleodiase.bbc.ProgramServiceTest" name="test_type"/>
 </testsuite>
